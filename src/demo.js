@@ -88,6 +88,11 @@ function TextButtons(props) {
           Primary {variant}
         </Button>
       ))}
+    </Section>,
+    <Section>
+      <Button variant="contained" color="primary" disableElevation>
+        Disable elevation
+      </Button>
     </Section>
   ];
 }
