@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/buttons/TextButtons.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "classnames": "latest",
+    "lodash": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "material-ui-custom-button-colors"
+}
